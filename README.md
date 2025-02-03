@@ -35,25 +35,28 @@ Pour installer et exécuter le projet localement, suivez ces étapes :
    cd TOQUES-EN-DUEL
 2. **Installer les dépendances**:
 
-## Pour le frontend
+   ## Pour le frontend
 
-cd frontend
-npm install
+   cd frontend
+   npm install
 
-## Pour le backend
-cd ../backend
-npm install
+   ## Pour le backend
+   
+   cd ../backend
+   npm install
 
-3. **les variables d'environnement** :
-Créez un fichier .env dans le dossier backend et ajoutez vos variables d'environnement.
+4. **les variables d'environnement** :
+   
+    Créez un fichier .env dans le dossier backend
+    et ajoutez vos variables d'environnement.
 
-4. **Démarrer les serveurs** :
+5. **Démarrer les serveurs** :
 
-## Pour le frontend
-cd frontend
-npm start
+    ## Pour le frontend
+    cd frontend
+    npm start
 
-## Pour le backend
-cd ../backend
-npm start
+    ## Pour le backend
+    cd ../backend
+    npm start
 
